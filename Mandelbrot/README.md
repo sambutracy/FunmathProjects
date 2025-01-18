@@ -2,6 +2,8 @@
 
 The Mandelbrot set is a famous fractal named after the mathematician Benoît B. Mandelbrot. It is a set of complex numbers that produces a distinctive and infinitely complex boundary when plotted on the complex plane.
 
+![Mandelbrot Set](Mandelbrot/Figure_1.png)
+
 ## Definition
 
 The Mandelbrot set is defined by the set of complex numbers `c` for which the function `f(z) = z^2 + c` does not diverge when iterated from `z = 0`. In other words, a complex number `c` is part of the Mandelbrot set if the sequence `f(0)`, `f(f(0))`, `f(f(f(0)))`, etc., remains bounded in absolute value.
